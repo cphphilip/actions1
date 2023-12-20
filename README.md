@@ -1,1 +1,2 @@
-# actions1
+# Exploring  githubh actions
+ Will be learning Github actions
