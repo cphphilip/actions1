@@ -1,6 +1,6 @@
 name: To check Multiple jobs
 
-on: push
+on: workflow_dispatch
 
 jobs:
     build_job:
